@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+
+    <Module> 
+
+        <ModulePrefs title="Twitter Timeline"/>
+
+        <Content type="html">
+
+            <![CDATA[ 
+
+			<a href="https://twitter.com/intent/tweet?button_hashtag=BungendoreFiriesFridge&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #BungendoreFiriesFridge</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            ]]>
+
+        </Content>
+
+    </Module>
